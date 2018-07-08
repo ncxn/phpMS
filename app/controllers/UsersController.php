@@ -2,6 +2,7 @@
 namespace phpMS\Controllers;
 
 use Phalcon\Tag as Tag;
+use phpMS\models\users;
 
 class UsersController extends ControllerBase
 {    
